@@ -1,9 +1,9 @@
 # Musical Tom 0.1.0
 
 > **Desenvolvimento:** este repositório guarda o código do aplicativo. A compilação e os testes
-> usam a árvore de [LinguagemTom](https://github.com/FamiliaEstudio/LinguagemTom)
-> (atualmente privada). Coloque os arquivos deste repositório no caminho indicado
-> em [INTEGRACAO.md](INTEGRACAO.md) e execute os comandos abaixo na raiz de LinguagemTom.
+> usam a árvore pública de [LinguagemTom](https://github.com/FamiliaEstudio/LinguagemTom).
+> Veja [INTEGRACAO.md](INTEGRACAO.md) para posicionar os arquivos e executar os comandos
+> na raiz de LinguagemTom.
 
 Jogo de leitura de partitura escrito em Tom, com rodadas de 20 notas, claves de
 sol e fá, acidentes, três modalidades e progresso salvo neste computador.
